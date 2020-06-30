@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.A{
+    color: #EA7773;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 38%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
